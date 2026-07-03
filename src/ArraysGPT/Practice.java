@@ -5,6 +5,6 @@ public class Practice {
 
         String s = "Sourabh";
         String r = "Raj";
-        String z = "Zeeshan";
+        String z = "Z";
     }
 }
