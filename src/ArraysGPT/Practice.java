@@ -5,5 +5,6 @@ public class Practice {
 
         String s = "Sourabh";
         String r = "Raj";
+        Strinf z = "Zero";
     }
 }
